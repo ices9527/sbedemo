@@ -1,0 +1,28 @@
+{
+    "test-cb-1": {
+      "LISTPRICE": {
+        "price": 2428.99,
+        "currency": "USD"
+      },
+      "COSTPRICE": {
+        "price": 1515.42,
+        "currency": "USD"
+      },
+      "WEBPRICE": {
+        "price": 2428.99,
+        "currency": "USD"
+      },
+      "SALESPRICE": {
+        "price": 2328.99,
+        "currency": "USD"
+      },
+      "FLOORPRICE": {
+        "price": 1515.42,
+        "currency": "USD"
+      },
+      "COUPONPRICE": {
+        "price": 2328.99,
+        "currency": "USD"
+      }
+    }
+  }

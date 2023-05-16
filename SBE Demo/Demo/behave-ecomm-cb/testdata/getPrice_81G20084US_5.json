@@ -1,0 +1,28 @@
+{
+    "81G20084US": {
+      "LISTPRICE": {
+        "price": 899.99,
+        "currency": "USD"
+      },
+      "COSTPRICE": {
+        "price": 573.36,
+        "currency": "USD"
+      },
+      "WEBPRICE": {
+        "price": 899.99,
+        "currency": "USD"
+      },
+      "SALESPRICE": {
+        "price": 862.94,
+        "currency": "USD"
+      },
+      "FLOORPRICE": {
+        "price": 573.36,
+        "currency": "USD"
+      },
+      "COUPONPRICE": {
+        "price": 862.94,
+        "currency": "USD"
+      }
+    }
+  }

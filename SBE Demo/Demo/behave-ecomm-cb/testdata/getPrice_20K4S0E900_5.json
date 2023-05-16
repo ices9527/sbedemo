@@ -1,0 +1,28 @@
+{
+    "20K4S0E900": {
+      "LISTPRICE": {
+        "price": 1529,
+        "currency": "USD"
+      },
+      "COSTPRICE": {
+        "price": 942.06,
+        "currency": "USD"
+      },
+      "WEBPRICE": {
+        "price": 1529,
+        "currency": "USD"
+      },
+      "SALESPRICE": {
+        "price": 1466.05,
+        "currency": "USD"
+      },
+      "FLOORPRICE": {
+        "price": 942.06,
+        "currency": "USD"
+      },
+      "COUPONPRICE": {
+        "price": 1466.05,
+        "currency": "USD"
+      }
+    }
+  }
